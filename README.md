@@ -1,10 +1,10 @@
 # git-assignment
 my first repository
 
-This repository contains my C program for performing basic arithmetic operations.
+This repository contains my C program for performing calculation of student marks.
 
 ## Files
-- student_marks.c → Program to find sum, difference, product, and quotient of two numbers.
+- student_marks.c → Program to find student marks.
 
 ## Instructions
 1. Compile the program using: gcc student_marks.c -o student_marks
